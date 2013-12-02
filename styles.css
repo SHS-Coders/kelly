@@ -1,4 +1,9 @@
 body {
-  background-color: white;
-  color: black;
-}
+  background-color: #00FFcc;
+  color: black; font-family: Tahoma;}
+
+a    {  text-decoration: none;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
